@@ -18,6 +18,7 @@ public class UserController {
     @GetMapping("/hi")
     public String sayHi() {
         return "hi";
+
     }
 
 
